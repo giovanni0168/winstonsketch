@@ -10,7 +10,7 @@
     <?php require_once __DIR__ . '/header.php'; ?>
     <main>
         <h1>Weerbericht</h1>
-        <IFRAME SRC="https://gadgets.buienradar.nl/gadget/radarfivedays" NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 WIDTH=776 HEIGHT=1400></IFRAME>
+        <IFRAME SRC="https://gadgets.buienradar.nl/gadget/radarfivedays" NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 WIDTH=256 HEIGHT=406></IFRAME>
     </main>
     <?php require_once __DIR__ . '/footer.php'; ?>
 </body>
