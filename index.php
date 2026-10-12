@@ -8,8 +8,10 @@
 </head>
 <body>
     <?php require_once __DIR__ . '/header.php'; ?>
-    <p>HEHEHEHA</p>
-
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6iGOjiC3TNLnl3L2kkOObiVQ1se-1h7Ge88q0WeIL9g&s" alt="Winston">
+    <main>
+        <h1>Weerbericht</h1>
+        <IFRAME SRC="https://gadgets.buienradar.nl/gadget/radarfivedays" NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 WIDTH=776 HEIGHT=1400></IFRAME>
+    </main>
+    <?php require_once __DIR__ . '/footer.php'; ?>
 </body>
 </html>
